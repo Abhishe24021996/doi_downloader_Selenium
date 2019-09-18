@@ -1,4 +1,4 @@
-doi1.txt s list of all doi that it will go through
+Provide a list of dois in doi.txt file
 
 checks the doi on scihub and downloads it. 
 Need manual of filling captcha whenever pops up.
